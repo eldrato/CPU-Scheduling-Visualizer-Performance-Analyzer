@@ -2,7 +2,6 @@
 
 An interactive web application that simulates classic CPU scheduling algorithms, animates them on a Gantt chart, and compares their performance side by side. Built as an Operating Systems course project.
 
-![Screenshot: main dashboard](docs/screenshots/dashboard.png)
 
 ## Table of Contents
 
